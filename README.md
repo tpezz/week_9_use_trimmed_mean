@@ -1,6 +1,6 @@
 # Week 9 Assignment: Create a Go Package (Trimmed Mean Package)
 
-This repository demonstrates how to use the `week_9` Go package to compute a trimmed mean from a dataset. The `week_9` package provides functions to calculate the trimmed mean by removing a percentage of the lowest and highest values before computing the average. It supports both symmetric trimming and asymmetric trimming.
+This github shows how to use the `week_9` Go package to compute a trimmed mean from a dataset. The `week_9` package provides functions to calculate the trimmed mean by removing a percentage of the lowest and highest values before computing the average. It supports both symmetric trimming and asymmetric trimming.
 
 
 ## Installation
